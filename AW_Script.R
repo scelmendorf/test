@@ -6,6 +6,8 @@
 
 #kelly did this 
 obj1 <- c(1,3,5,7,8,9)
-mean(obj1)
+
+# jane did this
+
 
 
