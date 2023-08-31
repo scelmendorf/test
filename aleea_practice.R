@@ -1,1 +1,3 @@
-i made a script
+#i made a script
+
+something
